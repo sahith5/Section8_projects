@@ -1,0 +1,15 @@
+Radius2
+Circumference12.56
+Area12.56
+Radius3
+Circumference18.84
+Area28.259999999999998
+Radius4
+Circumference25.12
+Area50.24
+Radius5
+Circumference31.400000000000002
+Area78.5
+Radius6
+Circumference37.68
+Area113.03999999999999

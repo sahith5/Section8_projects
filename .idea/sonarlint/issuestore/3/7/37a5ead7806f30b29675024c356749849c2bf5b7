@@ -1,0 +1,7 @@
+
+d
+java:S2095
+"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(ÀÉÿÌþÿÿÿÿ
+`
+java:S2095	"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Ð¾Ùœûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
